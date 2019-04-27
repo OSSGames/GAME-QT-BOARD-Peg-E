@@ -1,0 +1,63 @@
+1.2.6
+-----
+* FIXED: Automatic high DPI support.
+
+1.2.5
+-----
+* Replaced deprecated code.
+* Extra warnings only shown in debug build.
+* Improved Linux deployment.
+* Improved macOS deployment.
+* Improved Windows deployment.
+* Translation updates: Chinese, Portuguese.
+
+1.2.4
+-----
+* FIXED: Could not compile with Qt 5.10.
+
+1.2.3
+-----
+* FIXED: Did not always install translations in Linux.
+* Translation updates: Chinese.
+
+1.2.2
+-----
+* Generate binary translations at build time.
+* FIXED: Was not properly loading Qt translations.
+* FIXED: Success message was not high DPI.
+* Translation updates: Dutch, German, Greek, Hebrew, Lithuanian, Polish.
+
+1.2.1
+-----
+* FIXED: Application layout did not respect RTL languages.
+* FIXED: All new games used the same seed in Windows.
+
+1.2.0
+-----
+* Added support for high DPI displays.
+* Switched to C++11 random classes.
+* Removed support for Qt 4.
+* Translation updates: Czech, Dutch, German, Greek, Hebrew, Lithuanian,
+  Malay, Polish, Romanian, Russian, Spanish, Turkish.
+
+1.1.2
+-----
+* Added support for Qt 5.
+* Improved Linux desktop integration.
+* Translation updates: Romanian.
+
+1.1.1.1
+-------
+* Fixed not loading translated board messages.
+
+1.1.1
+-----
+* Fixed restarting not clearing saved moves.
+* Fixed background sometimes misdrawn.
+* Translation updates: Dutch, Hebrew.
+
+1.1.0
+-----
+* Added changing the peg color.
+* Added new puzzle algorithms.
+* Added a toolbar.

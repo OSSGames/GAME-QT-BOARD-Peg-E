@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+	<file alias="peg-e.png">hicolor/256x256/apps/peg-e.png</file>
+</qresource>
+</RCC>
